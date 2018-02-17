@@ -3,22 +3,57 @@
 # Location, Accommodation, and Dining
 
 ## Location
-PoreCamp Vancouver is taking place at the [Advanced Molecular Biology Laboratory (AMBL)](http://www.bioteach.ubc.ca/) at the [Michael Smith Laboratories](http://www.msl.ubc.ca/) at [the University of British Columbia](https://www.ubc.ca/). For a map to the campus and the location of the MSL building, click [here](http://maps.ubc.ca/PROD/index_detail.php?locat1=83). The building is unlocked and accessible during PoreCamp hours.
+Sing-a-Pore Camp 2018 is taking place at the Genome Institute of Singapore (GIS), Genome Building, Biopolis, Singapore 138672 ([map] (http://www.streetdirectory.com/sg/genome/60-biopolis-street-138672/2989_10373.html)){:target="_blank"}. The building is unlocked and accessible during PoreCamp hours.
 
-If you are taking transit to campus, check [UBC’s Transit Tips page](https://planning.ubc.ca/vancouver/transportation-planning/transportation-options/transit/transit-tips) for a list of buses serving the campus. You can purchase a stored-value Compass Card and use it to pay for your trips – for more information, visit [https://www.compasscard.ca](https://www.compasscard.ca/). The main bus loop is a short walk from the MSL building. If you are driving, daily parking is available at multiple parkades around campus; the closest one to MSL is the Health Sciences Parkade. Parking is first-come first-served at that parkade, and costs $16.00 for the day (valid through midnight). You will need the [HonkMobile app](https://www.honkmobile.com/download/) or a credit card to pay for parking.
-
-Although there is no direct transit route from YVR airport to campus, you can take the Canada Line train from the airport and switch to one of the many buses that run from various Canada Line stations to campus - use GoogleMaps to select your preferred route. Taxi fares from YVR to anywhere in the city are fixed - the [current rate](http://www.yvr.ca/en/passengers/transportation/taxis) from YVR to the UBC campus is $35.
+The Genome Building is a short 10-minute walk from the recommended accommodation (Park Avenue Rochester). For directions to Biopolis, please see [https://www.a-star.edu.sg/Portals/79/Directions%20to%20Biopolis_for%20drivers.pdf] (https://www.a-star.edu.sg/Portals/79/Directions%20to%20Biopolis_for%20drivers.pdf){:target="_blank"} 
 
 ## Accommodation
 
-**Participants are responsible for their own accommodation.** UBC has multiple on-campus accommodation options at various price points, from hostel-style accommodation in student dormitories ($39CAD/night and up) to hotel-style accommodation ($145CAD/night and up). You can review and price all of the available options at [http://suitesatubc.com](http://suitesatubc.com/), but ensure you book early, as summer is a busy time on campus, with many external groups using the campus for their conferences. If you are coming from out of town, we recommend arriving on Sunday, May 6 and departing Saturday, May 12.
+**Participants are responsible for their own accommodation.** The nearest hotel to Biopolis is Park Avenue Rochester located at 31 Rochester Drive, Singapore 138637, Singapore (http://parkavenueintl.com/parkavenuerochester/. Participants enjoy a special rate as stated below. Please download and send the guest room booking form directly to the hotel.
 
-If you are staying off-campus, look for a hotel or Airbnb on one of the bus routes into UBC. Kitsilano (particularly the area north of Broadway to the beach, from Burrard St. west to Alma St.) is a popular area with many restaurants and shops, and is very convenient to several UBC-bound bus routes. Downtown, including the Yaletown neighbourhood, is another popular destination, although the commute to campus is somewhat long (35-45min by bus).
+Superior room (19 – 20 sqm) at $215++ per room night
+Deluxe room at (21 – 24 sqm) at $225++ per room night
+*(prices quoted are subject to 10% service charge and 7% GST)*
+
+The above rates quoted are:
+  *	inclusive of daily breakfast for up to 1 person 
+  *	inclusive of internet & local calls
+
+Click [here] () to download guest room booking form.
 
 ## Dining
-Meals, with the exception of the opening drinks reception and the closing dinner, are on your own – this helps us keep meeting registration as affordable as possible. Fortunately, there are plenty of options on campus, many within a two-minute walk of MSL. Our favourites include:
-  * Loafe Cafe (in the Robert E. Lee Alumni Centre): great coffee, nice breakfast pastries, and very good sandwiches and salads at lunch. Plus beer and wine on tap!
-  * The Gallery 2.0 (top floor of the Nest Student Union Building): one of the campus pubs, with a pretty good menu and good craft beer selection. Amazing views from this rooftop patio!
-  * The Delly (basement of the Nest): they’ve been feeding UBC students excellent sandwiches and other fare quickly and cheaply since 1976, so clearly they’re doing something right. The made-to-order sandwich bar is excellent.
-  * Mahony & Sons (University Boulevard): a great spot if you want to sit down and have a proper lunch, with waitstaff and everything. 
-  * University Village (further out University Blvd.): there are two villages - the “old village” (which is technically the new village as the original burnt down in the early 1990s), which has an underground food court with some delicious and cheap options, and the “new village” (technically the new-new village), which has a few more options, including a good sushi restaurant on the second floor.
+The following meals will be provided by the organisers:
+  *	Morning and afternoon tea breaks for all five days of the camp (Breakout Area)
+  *	Lunch for all five days of the camp (Breakout Area)
+  *	Opening reception on 18th September (Breakout Area)
+  *	Closing party on 22nd September (venue tbc)
+
+For the more adventurous, there are a myriad of dining venues and cuisines to choose from around Biopolis, some of which are listed here:
+  *	Biopolis [https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista] (https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista) 
+	  *	[http://www.thelawn.com.sg] (http://www.thelawn.com.sg) (salad bar)
+	  *	[http://www.longblack.com.sg] (http://www.longblack.com.sg)(burgers, pasta, and more)
+	  *	[https://www.rajrestaurant.com.sg] (https://www.rajrestaurant.com.sg) (North Indian)
+	  *	[https://www.parkwayonenorth.com](https://www.parkwayonenorth.com) (Thai)
+	  *	[http://www.bigmama.sg/buona-vista] (http://www.bigmama.sg/buona-vista) (Korean)
+	  *	[http://peperoni.com.sg/biopolis] (http://peperoni.com.sg/biopolis) (Italian, pizza)
+
+  *	Fusionopolis [https://www.google.com.sg/maps/@1.2986505,103.7875216,15z] (https://www.google.com.sg/maps/@1.2986505,103.7875216,15z)
+	  *	[http://www.yunnangarden.com.sg] (http://www.yunnangarden.com.sg) (Chinese)
+	  *	[https://www.facebook.com/kattosingapore] (https://www.facebook.com/kattosingapore) (Asian)
+	  *	[http://www.arkadascafe.com.sg/index.html] (http://www.arkadascafe.com.sg/index.html) (Turkish)
+	  *	[https://www.facebook.com/thedailycut.sg] (https://www.facebook.com/thedailycut.sg) (salad bar)
+	  *	[http://thefoodbarn.com.sg] (http://thefoodbarn.com.sg) (sandwich)
+
+  *	Star Vista [https://www.capitaland.com/sg/malls/thestarvista/en/concierge/mall-info.html] (https://www.capitaland.com/sg/malls/thestarvista/en/concierge/mall-info.html) 
+	  *	[http://yomenya-goemon.com.sg] (http://yomenya-goemon.com.sg) (Japanese)
+	  *	[https://www.paradisegp.com/brand-canton-paradise] (https://www.paradisegp.com/brand-canton-paradise) (Cantonese, Chinese)
+	  *	[http://district10.com.sg/starvista] (http://district10.com.sg/starvista) (European)
+	  *	[http://www.nandos.com.sg/eat/restaurants/star-vista] (http://www.nandos.com.sg/eat/restaurants/star-vista) (Afro-Portugese, chicken)
+	  *	[https://www.facebook.com/greendotsg] (https://www.facebook.com/greendotsg) (vegetarian)
+
+  *	Holland Village [http://www.holland-village-singapore.com] (http://www.holland-village-singapore.com)
+	  *	[http://72obistrosg.com] (http://72obistrosg.com) (Western)
+	  *	[https://www.facebook.com/awfullychocolate.sg] (https://www.facebook.com/awfullychocolate.sg) (chocolates)
+	  *	[https://www.facebook.com/baden.sg] (https://www.facebook.com/baden.sg) (German)
+	  *	[http://bbbs.com.sg] (http://bbbs.com.sg) (Thai, Western, North Indian)
+	  *	[http://chachacha.com.sg](http://chachacha.com.sg) (Mexican)
