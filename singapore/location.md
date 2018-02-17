@@ -3,9 +3,9 @@
 # Location, Accommodation, and Dining
 
 ## Location
-Sing-a-Pore Camp 2018 is taking place at the Genome Institute of Singapore (GIS), Genome Building, Biopolis, Singapore 138672 ([map](http://www.streetdirectory.com/sg/genome/60-biopolis-street-138672/2989_10373.html)){:target="_blank"}. The building is unlocked and accessible during PoreCamp hours.
+Sing-a-Pore Camp 2018 is taking place at the Genome Institute of Singapore (GIS), Genome Building, Biopolis, Singapore 138672 ([map](http://www.streetdirectory.com/sg/genome/60-biopolis-street-138672/2989_10373.html). The building is unlocked and accessible during PoreCamp hours.
 
-The Genome Building is a short 10-minute walk from the recommended accommodation (Park Avenue Rochester). For directions to Biopolis, please see [https://www.a-star.edu.sg/Portals/79/Directions%20to%20Biopolis_for%20drivers.pdf](https://www.a-star.edu.sg/Portals/79/Directions%20to%20Biopolis_for%20drivers.pdf){:target="_blank"} 
+The Genome Building is a short 10-minute walk from the recommended accommodation (Park Avenue Rochester). For directions to Biopolis, please see [https://www.a-star.edu.sg/Portals/79/Directions%20to%20Biopolis_for%20drivers.pdf](https://www.a-star.edu.sg/Portals/79/Directions%20to%20Biopolis_for%20drivers.pdf)
 
 ## Accommodation
 
@@ -35,7 +35,7 @@ For the more adventurous, there are a myriad of dining venues and cuisines to ch
 	  *	[https://www.rajrestaurant.com.sg] (https://www.rajrestaurant.com.sg) (North Indian)
 	  *	[https://www.parkwayonenorth.com](https://www.parkwayonenorth.com) (Thai)
 	  *	[http://www.bigmama.sg/buona-vista] (http://www.bigmama.sg/buona-vista) (Korean)
-	  *	[http://peperoni.com.sg/biopolis] (http://peperoni.com.sg/biopolis) (Italian, pizza)
+	  *	[http://peperoni.com.sg/biopolis] (http://peperoni.com.sg/biopolis)(Italian, pizza)[newtab]
 	  *	<a href="http://peperoni.com.sg/biopolis" target="_blank">http://peperoni.com.sg/biopolis</a> (Italian, pizza)
 
   *	Fusionopolis [https://www.google.com.sg/maps/@1.2986505,103.7875216,15z] (https://www.google.com.sg/maps/@1.2986505,103.7875216,15z)
