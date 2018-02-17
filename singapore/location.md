@@ -35,7 +35,7 @@ For the more adventurous, there are a myriad of dining venues and cuisines to ch
 	  *	[https://www.rajrestaurant.com.sg] (https://www.rajrestaurant.com.sg) (North Indian)
 	  *	[https://www.parkwayonenorth.com](https://www.parkwayonenorth.com) (Thai)
 	  *	[http://www.bigmama.sg/buona-vista] (http://www.bigmama.sg/buona-vista) (Korean)
-	  *	[http://peperoni.com.sg/biopolis] (http://peperoni.com.sg/biopolis)(Italian, pizza)[newtab]
+	  *	[http://peperoni.com.sg/biopolis](http://peperoni.com.sg/biopolis)(Italian, pizza)[newtab]
 	  *	<a href="http://peperoni.com.sg/biopolis" target="_blank">http://peperoni.com.sg/biopolis</a> (Italian, pizza)
 
   *	Fusionopolis [https://www.google.com.sg/maps/@1.2986505,103.7875216,15z] (https://www.google.com.sg/maps/@1.2986505,103.7875216,15z)
