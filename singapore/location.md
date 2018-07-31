@@ -11,15 +11,14 @@ The Genome Building is a short 10-minute walk from the recommended accommodation
 
 **Participants are responsible for their own accommodation.** The nearest hotel to Biopolis is Park Avenue Rochester located at 31 Rochester Drive, Singapore 138637, Singapore (<a href="http://parkavenueintl.com/parkavenuerochester" target="_blank">http://parkavenueintl.com/parkavenuerochester</a>). Participants enjoy a special rate as stated below. Please download and send the guest room booking form directly to the hotel.
 
-Superior room (19 – 20 sqm) at $215++ per room night
-Deluxe room at (21 – 24 sqm) at $225++ per room night
+Rooms (superior or deluxe) are priced at SGD$195++ per room night. 
 *(prices quoted are subject to 10% service charge and 7% GST)*
 
 The above rates quoted are:
   *	inclusive of daily breakfast for up to 1 person 
   *	inclusive of internet & local calls
 
-Click <a href="form/GIS180918_Booking_form.pdf" target="_blank">here</a> for the guest room booking form.
+Click <a href="https://www.book-secure.com/index.php?s=results&property=sgsin22836&arrival=2018-09-17&departure=2018-09-18&code=SING&adults1=1&children1=0&rooms=1&locale=en_GB&currency=SGD&stid=9x852acr1&showBestPriceFirst=1&showPromotions=3&Hotelnames=ASIASGHTLPARochester&hname=ASIASGHTLPARochester&arrivalDateValue=2018-09-17&frommonth=9&fromday=17&fromyear=2018&nbdays=1&nbNightsValue=1&AccessCode=SING&accessCode=SING&redir=BIZ-so5523q0o4&rt=1525828036" target="_blank">here</a> for the guest room booking form.
 
 ## Dining
 The following meals will be provided by the organisers:
