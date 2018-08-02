@@ -18,7 +18,7 @@ The above rates quoted are:
   *	inclusive of daily breakfast for up to 1 person 
   *	inclusive of internet & local calls
 
-Click <a href="form/GIS180918_Booking_form.pdf" target="_blank">here</a> for the guest room booking form.
+Click <a href="https://www.book-secure.com/index.php?s=results&property=sgsin22836&arrival=2018-09-17&departure=2018-09-18&code=SING&adults1=1&children1=0&rooms=1&locale=en_GB&currency=SGD&stid=9x852acr1&showBestPriceFirst=1&showPromotions=3&Hotelnames=ASIASGHTLPARochester&hname=ASIASGHTLPARochester&arrivalDateValue=2018-09-17&frommonth=9&fromday=17&fromyear=2018&nbdays=1&nbNightsValue=1&AccessCode=SING&accessCode=SING&redir=BIZ-so5523q0o4&rt=1525828036" target="_blank">here</a> for the guest room booking form.
 
 ## Dining
 The following meals will be provided by the organisers:
